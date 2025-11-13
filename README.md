@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-11-13 at 21 59 19_0b39626d](https://github.com/user-attachments/assets/6131338b-136d-403f-bb4f-fccfa03a12a1)# Ex No: 08 - Design and Simulation of a Booth Multiplier Using Verilog and Cadence nclaunch
+Ex No: 08 - Design and Simulation of a Booth Multiplier Using Verilog and Cadence nclaunch
 
 ## Aim
 To design and simulate a **Booth Multiplier** using **Verilog HDL** and verify its functionality in **Cadence nclaunch**.
